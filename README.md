@@ -1,6 +1,7 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
 I'm a Freelance Web Developer
+
 My favorite thing to talk about is web/software accessiblity. 
 
 Thanks for checking out my profile.
