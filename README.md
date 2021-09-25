@@ -1,11 +1,7 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-I'm a Freelance Web Developer
+I'm a developer, experienced in building web applications with focus on accessibility.
 
-My favorite thing to talk about is web/software accessiblity. 
-
-Thanks for checking out my profile.
+I also work across data science domains and cloud development.
 
 You can check me out on [Twitter](https://twitter.com/mainstreamdev) too. 
-
-Note: I love cats😺😺😺
