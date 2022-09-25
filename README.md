@@ -2,7 +2,7 @@
 
 I'm a software developer, experienced in building web applications with focus on accessibility.
 
-I also work across data science and cloud development.
+I also work across bitcoin and lightning network, data processing and cloud development.
 
 Checkout my website on [samsonolusegun.xyz](https://www.samsonolusegun.xyz)
 
