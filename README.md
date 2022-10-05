@@ -1,6 +1,6 @@
 ### Hi there 👋🏾👋🏽👋🏽
 
-I'm a software developer, experienced in building web applications with focus on accessibility.
+I'm a software engineer, skilled in building web applications with focus on accessibility.
 
 I also work across bitcoin and lightning network, data processing and cloud development.
 
